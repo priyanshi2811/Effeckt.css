@@ -30,7 +30,7 @@
       font-size: small; } }
 
 html, body {
-  height: 100%;
+  height: 75%;
   overflow: hidden; }
 
 body {
@@ -45,7 +45,7 @@ body {
 
 .effeckt {
   padding: 2rem;
-  background: white;
+  background: black;
   margin: 0 0 1rem 0; }
   @media (max-width: 500px) {
     .effeckt {
